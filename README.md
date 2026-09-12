@@ -1,4 +1,3 @@
-# Wastewise-AI
 # WasteWise AI
 
 ## AI-Powered Manufacturing Loss & Rework Intelligence
